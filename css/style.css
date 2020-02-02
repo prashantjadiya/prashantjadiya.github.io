@@ -1013,12 +1013,12 @@ body.offcanvas {
         .project .desc span {
           -webkit-transform: translate3d(0, 0, 0);
           transform: translate3d(0, 0, 0); } }
-  .project:hover .desc {
+  .project:click .desc {
     opacity: 1; }
-    .project:hover .desc h3 {
+    .project:click .desc h3 {
       -webkit-transform: translate3d(0, 0, 0);
       transform: translate3d(0, 0, 0); }
-    .project:hover .desc span {
+    .project:click .desc span {
       -webkit-transform: translate3d(0, 0, 0);
       transform: translate3d(0, 0, 0); }
 
