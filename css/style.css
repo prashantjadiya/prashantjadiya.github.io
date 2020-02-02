@@ -1015,10 +1015,10 @@ body.offcanvas {
           transform: translate3d(0, 0, 0); } }
   .project:hover .desc {
     opacity: 1; }
-    .project:hover .desc h3 {
+    .project:onclick .desc h3 {
       -webkit-transform: translate3d(0, 0, 0);
       transform: translate3d(0, 0, 0); }
-    .project:hover.desc span {
+    .project:onclick.desc span {
       -webkit-transform: translate3d(0, 0, 0);
       transform: translate3d(0, 0, 0); }
 
